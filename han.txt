@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 han2
 han3
 han4
@@ -9,3 +10,6 @@ han9
 han8
 han9
 >>>>>>> feature
+=======
+han
+>>>>>>> dev
